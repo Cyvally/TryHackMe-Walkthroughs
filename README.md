@@ -5,7 +5,7 @@ Welcome to the repository of Cyvally's TryHackMe Walkthroughs! This collection o
 **## Overview**
 
 - This repository contains a series of step-by-step guides and tutorials for various TryHackMe challenges and labs.
-- The walkthroughs cover a wide range of cybersecurity topics, including ethical hacking, penetration testing, and network security.
+- The walkthroughs cover a wide range of cybersecurity topics, including ethical hacking, penetration testing, and Defensive security.
 - Each walkthrough includes clear instructions, tips, and solutions to help you complete the challenges successfully.
 - Feel free to explore the content, follow the guides, and enhance your cybersecurity knowledge and skills.
 
