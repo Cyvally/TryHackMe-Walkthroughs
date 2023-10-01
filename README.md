@@ -32,5 +32,5 @@ This repository is made available by Cyvally for educational and collaborative p
 
 Happy learning and happy hacking!
 
-https://github.com/Cyvally/TryHackMe-Walkthroughs/issues/1#issuecomment-1742106600
+![frustration](https://github.com/Cyvally/TryHackMe-Walkthroughs/assets/141871547/1ff44d42-8d93-4d9c-8be9-474e6b931597)
 
