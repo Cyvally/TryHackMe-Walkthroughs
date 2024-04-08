@@ -1,0 +1,17 @@
+#COPIED FROM TRYHACKME
+Introduction
+
+The aim of this path is to teach you how to attack web applications. To successfully attack and exploit web applications, you need to understand how they work. The first section (Web Fundamentals) will give you all the pre-requisite knowledge on this. 
+
+The second section (Security Tools) focuses on learning how to use Industry Standard tooling to interact with your targets. 
+
+The third section (Vulnerabilities) covers various vulnerabilities found in web applications today. This section will go over root causes of these vulnerabilities and give you hands on experience on exploiting them.
+
+The final section (Practise Makes Perfect) will help you apply what you've learnt in previous sections.
+
+After completing this path, you should be able to:
+
+    understand how web applications work
+    utilise industry standard tooling when attacking web applications
+    explain and exploit common web vulnerabilities
+    apply this knowledge to other targets (be it within an interview or a professional web applications security assessment)
